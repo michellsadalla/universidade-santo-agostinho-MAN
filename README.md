@@ -56,8 +56,7 @@ Funções configuradas:
 
 ---
 
-### 📡 Testes de Conectividade e Acesso
----
+## 📡 Testes de Conectividade e Acesso
 ### 🧑‍💻 Laboratório de Informática II
 
 - Roteador 2 (Gateway da rede): `192.168.2.1/24`

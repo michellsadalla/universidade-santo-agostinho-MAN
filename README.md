@@ -47,7 +47,7 @@ Funções configuradas:
 
 ## 🚀 Como abrir o projeto para testar a conectividade da Rede
 
-1. Instale o [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) (versão **8.2 ou superior**).  
+1. Instale o [Cisco Packet Tracer]([https://www.netacad.com/courses/packet-tracer](https://www.netacad.com/pt/articles/news/download-cisco-packet-tracer?courseLang=pt-BR)) (versão **8.2 ou superior**).  
 2. Clone este repositório:
    ```bash
    git clone https://github.com/michellsadalla/universidade-santo-agostinho-MAN.git

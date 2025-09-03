@@ -1,4 +1,4 @@
-# 🏛️ Universidade Santo Agostinho — Projeto de Rede MAN
+# 🎓 Universidade Santo Agostinho — Projeto de Rede MAN
 
 Este projeto foi desenvolvido no **Cisco Packet Tracer** para simular a infraestrutura de rede acadêmica da **Universidade Santo Agostinho**, interligando diferentes setores do campus universitário, com serviços locais, roteamento dinâmico e conectividade simulada com a Internet.
 

@@ -33,6 +33,29 @@ Funções configuradas:
 
 ---
 
+## 📂 Estrutura do Repositório
+
+- `universidade-santo-agostinho-MAN.pkt` → Arquivo do Cisco Packet Tracer com a topologia pronta.  
+- `README.md` → Documentação do projeto.  
+- `imagens/` → Pasta com capturas de tela dos testes e diagramas.  
+  - `topologia.jpeg` → Imagem ilustrativa da rede.  
+  - `teste-ping-laboratorio1-laboratorio2.jpeg` → Teste de conectividade entre o Laboratório de Informática I e II.  
+  - `teste-ping-laboratorio2-laboratorio1.jpeg` → Teste de conectividade entre o Laboratório de Informática II e I.  
+  - `protocolo-ospf-roteador-borda.jpeg` → Demonstração do OSPF configurado no roteador de borda.  
+
+---
+
+## 🚀 Como abrir o projeto para testar a conectividade da Rede
+
+1. Instale o [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) (versão **8.2 ou superior**).  
+2. Clone este repositório:
+   ```bash
+   git clone https://github.com/usuario/universidade-santo-agostinho-MAN.git
+   cd universidade-santo-agostinho-MAN
+3. Abra o arquivo 'universidade-santo-agostinho-MAN.pkt' com o packet tracer para verificar configurações e testes de conectividade em tempo real.
+
+---
+
 ### 📡 Testes de Conectividade e Acesso
 
 ### 🧑‍💻 Laboratório de Informática II

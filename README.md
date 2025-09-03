@@ -50,7 +50,7 @@ Funções configuradas:
 1. Instale o [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) (versão **8.2 ou superior**).  
 2. Clone este repositório:
    ```bash
-   git clone https://github.com/usuario/universidade-santo-agostinho-MAN.git
+   git clone https://github.com/michellsadalla/universidade-santo-agostinho-MAN.git
    cd universidade-santo-agostinho-MAN
 3. Abra o arquivo 'universidade-santo-agostinho-MAN.pkt' com o packet tracer para verificar configurações e testes de conectividade em tempo real.
 

@@ -14,7 +14,7 @@ O projeto contempla a configuração de uma rede **MAN acadêmica**, que conecta
 
 ---
 
-## 🖧 Estrutura da Rede
+## 🖧 Topologia da Rede
 
 ![Topologia](imagens/topologia.jpeg)
 
